@@ -1,0 +1,649 @@
+[
+    {
+        "id": 1,
+        "variant": "Z101 BSO LH",
+        "date": "02/01/2026",
+        "timestamp": "10:15:32",
+        "defectCount": 8,
+        "defectTypes": [
+            {
+                "type": "Ding",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/z101_1_ding1/800/600",
+                    "https://picsum.photos/seed/z101_1_ding2/800/600",
+                    "https://picsum.photos/seed/z101_1_ding3/800/600",
+                    "https://picsum.photos/seed/z101_1_ding4/800/600"
+                ]
+            },
+            {
+                "type": "Crack",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/z101_1_crack1/800/600",
+                    "https://picsum.photos/seed/z101_1_crack2/800/600",
+                    "https://picsum.photos/seed/z101_1_crack3/800/600",
+                    "https://picsum.photos/seed/z101_1_crack4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "variant": "Z101 BSO LH",
+        "date": "01/01/2026",
+        "timestamp": "14:22:18",
+        "defectCount": 6,
+        "defectTypes": [
+            {
+                "type": "Chip Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/z101_2_chip1/800/600",
+                    "https://picsum.photos/seed/z101_2_chip2/800/600",
+                    "https://picsum.photos/seed/z101_2_chip3/800/600"
+                ]
+            },
+            {
+                "type": "Dent",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/z101_2_dent1/800/600",
+                    "https://picsum.photos/seed/z101_2_dent2/800/600",
+                    "https://picsum.photos/seed/z101_2_dent3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "variant": "Z101 BSO LH",
+        "date": "31/12/2025",
+        "timestamp": "09:45:55",
+        "defectCount": 5,
+        "defectTypes": [
+            {
+                "type": "Scratches",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/z101_3_scratch1/800/600",
+                    "https://picsum.photos/seed/z101_3_scratch2/800/600",
+                    "https://picsum.photos/seed/z101_3_scratch3/800/600"
+                ]
+            },
+            {
+                "type": "Line Mark",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/z101_3_line1/800/600",
+                    "https://picsum.photos/seed/z101_3_line2/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "variant": "Z101 BSO LH",
+        "date": "30/12/2025",
+        "timestamp": "16:33:42",
+        "defectCount": 9,
+        "defectTypes": [
+            {
+                "type": "Damage",
+                "count": 5,
+                "images": [
+                    "https://picsum.photos/seed/z101_4_damage1/800/600",
+                    "https://picsum.photos/seed/z101_4_damage2/800/600",
+                    "https://picsum.photos/seed/z101_4_damage3/800/600",
+                    "https://picsum.photos/seed/z101_4_damage4/800/600",
+                    "https://picsum.photos/seed/z101_4_damage5/800/600"
+                ]
+            },
+            {
+                "type": "Thinning",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/z101_4_thin1/800/600",
+                    "https://picsum.photos/seed/z101_4_thin2/800/600",
+                    "https://picsum.photos/seed/z101_4_thin3/800/600",
+                    "https://picsum.photos/seed/z101_4_thin4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "variant": "Z101 BSO LH",
+        "date": "29/12/2025",
+        "timestamp": "11:18:27",
+        "defectCount": 0,
+        "defectTypes": []
+    },
+    {
+        "id": 6,
+        "variant": "M110 Fixed Glass Roof Front",
+        "date": "02/01/2026",
+        "timestamp": "08:42:15",
+        "defectCount": 7,
+        "defectTypes": [
+            {
+                "type": "Ding",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m110_1_ding1/800/600",
+                    "https://picsum.photos/seed/m110_1_ding2/800/600",
+                    "https://picsum.photos/seed/m110_1_ding3/800/600"
+                ]
+            },
+            {
+                "type": "Chip Mark",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/m110_1_chip1/800/600",
+                    "https://picsum.photos/seed/m110_1_chip2/800/600",
+                    "https://picsum.photos/seed/m110_1_chip3/800/600",
+                    "https://picsum.photos/seed/m110_1_chip4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "variant": "M110 Fixed Glass Roof Front",
+        "date": "01/01/2026",
+        "timestamp": "13:55:38",
+        "defectCount": 10,
+        "defectTypes": [
+            {
+                "type": "Crack",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/m110_2_crack1/800/600",
+                    "https://picsum.photos/seed/m110_2_crack2/800/600",
+                    "https://picsum.photos/seed/m110_2_crack3/800/600",
+                    "https://picsum.photos/seed/m110_2_crack4/800/600"
+                ]
+            },
+            {
+                "type": "Dent",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m110_2_dent1/800/600",
+                    "https://picsum.photos/seed/m110_2_dent2/800/600",
+                    "https://picsum.photos/seed/m110_2_dent3/800/600"
+                ]
+            },
+            {
+                "type": "Scratches",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m110_2_scratch1/800/600",
+                    "https://picsum.photos/seed/m110_2_scratch2/800/600",
+                    "https://picsum.photos/seed/m110_2_scratch3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "variant": "M110 Fixed Glass Roof Front",
+        "date": "31/12/2025",
+        "timestamp": "17:28:44",
+        "defectCount": 4,
+        "defectTypes": [
+            {
+                "type": "Thinning",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/m110_3_thin1/800/600",
+                    "https://picsum.photos/seed/m110_3_thin2/800/600"
+                ]
+            },
+            {
+                "type": "Damage",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/m110_3_damage1/800/600",
+                    "https://picsum.photos/seed/m110_3_damage2/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "variant": "M110 Fixed Glass Roof Front",
+        "date": "30/12/2025",
+        "timestamp": "10:12:33",
+        "defectCount": 6,
+        "defectTypes": [
+            {
+                "type": "Line Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m110_4_line1/800/600",
+                    "https://picsum.photos/seed/m110_4_line2/800/600",
+                    "https://picsum.photos/seed/m110_4_line3/800/600"
+                ]
+            },
+            {
+                "type": "Scrap Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m110_4_scrap1/800/600",
+                    "https://picsum.photos/seed/m110_4_scrap2/800/600",
+                    "https://picsum.photos/seed/m110_4_scrap3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "variant": "M110 Fixed Glass Roof Front",
+        "date": "29/12/2025",
+        "timestamp": "15:47:21",
+        "defectCount": 3,
+        "defectTypes": [
+            {
+                "type": "Ding",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m110_5_ding1/800/600",
+                    "https://picsum.photos/seed/m110_5_ding2/800/600",
+                    "https://picsum.photos/seed/m110_5_ding3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "variant": "THAR FDO RH- W502",
+        "date": "02/01/2026",
+        "timestamp": "09:33:15",
+        "defectCount": 11,
+        "defectTypes": [
+            {
+                "type": "Ding",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/thar_1_ding1/800/600",
+                    "https://picsum.photos/seed/thar_1_ding2/800/600",
+                    "https://picsum.photos/seed/thar_1_ding3/800/600",
+                    "https://picsum.photos/seed/thar_1_ding4/800/600"
+                ]
+            },
+            {
+                "type": "Dent",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/thar_1_dent1/800/600",
+                    "https://picsum.photos/seed/thar_1_dent2/800/600",
+                    "https://picsum.photos/seed/thar_1_dent3/800/600",
+                    "https://picsum.photos/seed/thar_1_dent4/800/600"
+                ]
+            },
+            {
+                "type": "Damage",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/thar_1_damage1/800/600",
+                    "https://picsum.photos/seed/thar_1_damage2/800/600",
+                    "https://picsum.photos/seed/thar_1_damage3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "variant": "THAR FDO RH- W502",
+        "date": "01/01/2026",
+        "timestamp": "12:18:42",
+        "defectCount": 5,
+        "defectTypes": [
+            {
+                "type": "Crack",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/thar_2_crack1/800/600",
+                    "https://picsum.photos/seed/thar_2_crack2/800/600"
+                ]
+            },
+            {
+                "type": "Chip Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/thar_2_chip1/800/600",
+                    "https://picsum.photos/seed/thar_2_chip2/800/600",
+                    "https://picsum.photos/seed/thar_2_chip3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "variant": "THAR FDO RH- W502",
+        "date": "31/12/2025",
+        "timestamp": "16:45:28",
+        "defectCount": 8,
+        "defectTypes": [
+            {
+                "type": "Scratches",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/thar_3_scratch1/800/600",
+                    "https://picsum.photos/seed/thar_3_scratch2/800/600",
+                    "https://picsum.photos/seed/thar_3_scratch3/800/600",
+                    "https://picsum.photos/seed/thar_3_scratch4/800/600"
+                ]
+            },
+            {
+                "type": "Line Mark",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/thar_3_line1/800/600",
+                    "https://picsum.photos/seed/thar_3_line2/800/600",
+                    "https://picsum.photos/seed/thar_3_line3/800/600",
+                    "https://picsum.photos/seed/thar_3_line4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "variant": "THAR FDO RH- W502",
+        "date": "30/12/2025",
+        "timestamp": "08:22:15",
+        "defectCount": 0,
+        "defectTypes": []
+    },
+    {
+        "id": 15,
+        "variant": "THAR FDO RH- W502",
+        "date": "29/12/2025",
+        "timestamp": "14:55:33",
+        "defectCount": 7,
+        "defectTypes": [
+            {
+                "type": "Thinning",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/thar_5_thin1/800/600",
+                    "https://picsum.photos/seed/thar_5_thin2/800/600",
+                    "https://picsum.photos/seed/thar_5_thin3/800/600"
+                ]
+            },
+            {
+                "type": "Scrap Mark",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/thar_5_scrap1/800/600",
+                    "https://picsum.photos/seed/thar_5_scrap2/800/600",
+                    "https://picsum.photos/seed/thar_5_scrap3/800/600",
+                    "https://picsum.photos/seed/thar_5_scrap4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "variant": "M310 E9 LGO Lower",
+        "date": "02/01/2026",
+        "timestamp": "11:42:18",
+        "defectCount": 10,
+        "defectTypes": [
+            {
+                "type": "Ding",
+                "count": 6,
+                "images": [
+                    "https://picsum.photos/seed/m310_1_ding1/800/600",
+                    "https://picsum.photos/seed/m310_1_ding2/800/600",
+                    "https://picsum.photos/seed/m310_1_ding3/800/600",
+                    "https://picsum.photos/seed/m310_1_ding4/800/600",
+                    "https://picsum.photos/seed/m310_1_ding5/800/600",
+                    "https://picsum.photos/seed/m310_1_ding6/800/600"
+                ]
+            },
+            {
+                "type": "Crack",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/m310_1_crack1/800/600",
+                    "https://picsum.photos/seed/m310_1_crack2/800/600",
+                    "https://picsum.photos/seed/m310_1_crack3/800/600",
+                    "https://picsum.photos/seed/m310_1_crack4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "variant": "M310 E9 LGO Lower",
+        "date": "01/01/2026",
+        "timestamp": "15:28:45",
+        "defectCount": 4,
+        "defectTypes": [
+            {
+                "type": "Damage",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/m310_2_damage1/800/600",
+                    "https://picsum.photos/seed/m310_2_damage2/800/600"
+                ]
+            },
+            {
+                "type": "Dent",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/m310_2_dent1/800/600",
+                    "https://picsum.photos/seed/m310_2_dent2/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "variant": "M310 E9 LGO Lower",
+        "date": "31/12/2025",
+        "timestamp": "09:15:22",
+        "defectCount": 7,
+        "defectTypes": [
+            {
+                "type": "Scratches",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/m310_3_scratch1/800/600",
+                    "https://picsum.photos/seed/m310_3_scratch2/800/600",
+                    "https://picsum.photos/seed/m310_3_scratch3/800/600",
+                    "https://picsum.photos/seed/m310_3_scratch4/800/600"
+                ]
+            },
+            {
+                "type": "Damage",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m310_3_damage1/800/600",
+                    "https://picsum.photos/seed/m310_3_damage2/800/600",
+                    "https://picsum.photos/seed/m310_3_damage3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "variant": "M310 E9 LGO Lower",
+        "date": "30/12/2025",
+        "timestamp": "13:42:55",
+        "defectCount": 5,
+        "defectTypes": [
+            {
+                "type": "Chip Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m310_4_chip1/800/600",
+                    "https://picsum.photos/seed/m310_4_chip2/800/600",
+                    "https://picsum.photos/seed/m310_4_chip3/800/600"
+                ]
+            },
+            {
+                "type": "Line Mark",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/m310_4_line1/800/600",
+                    "https://picsum.photos/seed/m310_4_line2/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "variant": "M310 E9 LGO Lower",
+        "date": "29/12/2025",
+        "timestamp": "17:18:12",
+        "defectCount": 6,
+        "defectTypes": [
+            {
+                "type": "Thinning",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m310_5_thin1/800/600",
+                    "https://picsum.photos/seed/m310_5_thin2/800/600",
+                    "https://picsum.photos/seed/m310_5_thin3/800/600"
+                ]
+            },
+            {
+                "type": "Scrap Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/m310_5_scrap1/800/600",
+                    "https://picsum.photos/seed/m310_5_scrap2/800/600",
+                    "https://picsum.photos/seed/m310_5_scrap3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "variant": "PANEL FENDER LH -Z101",
+        "date": "02/01/2026",
+        "timestamp": "08:55:32",
+        "defectCount": 9,
+        "defectTypes": [
+            {
+                "type": "Ding",
+                "count": 5,
+                "images": [
+                    "https://picsum.photos/seed/panel_1_ding1/800/600",
+                    "https://picsum.photos/seed/panel_1_ding2/800/600",
+                    "https://picsum.photos/seed/panel_1_ding3/800/600",
+                    "https://picsum.photos/seed/panel_1_ding4/800/600",
+                    "https://picsum.photos/seed/panel_1_ding5/800/600"
+                ]
+            },
+            {
+                "type": "Chip Mark",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/panel_1_chip1/800/600",
+                    "https://picsum.photos/seed/panel_1_chip2/800/600",
+                    "https://picsum.photos/seed/panel_1_chip3/800/600",
+                    "https://picsum.photos/seed/panel_1_chip4/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "variant": "PANEL FENDER LH -Z101",
+        "date": "01/01/2026",
+        "timestamp": "12:32:18",
+        "defectCount": 0,
+        "defectTypes": []
+    },
+    {
+        "id": 23,
+        "variant": "PANEL FENDER LH -Z101",
+        "date": "31/12/2025",
+        "timestamp": "16:18:45",
+        "defectCount": 6,
+        "defectTypes": [
+            {
+                "type": "Crack",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/panel_3_crack1/800/600",
+                    "https://picsum.photos/seed/panel_3_crack2/800/600",
+                    "https://picsum.photos/seed/panel_3_crack3/800/600"
+                ]
+            },
+            {
+                "type": "Dent",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/panel_3_dent1/800/600",
+                    "https://picsum.photos/seed/panel_3_dent2/800/600",
+                    "https://picsum.photos/seed/panel_3_dent3/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "variant": "PANEL FENDER LH -Z101",
+        "date": "30/12/2025",
+        "timestamp": "10:45:22",
+        "defectCount": 8,
+        "defectTypes": [
+            {
+                "type": "Scratches",
+                "count": 4,
+                "images": [
+                    "https://picsum.photos/seed/panel_4_scratch1/800/600",
+                    "https://picsum.photos/seed/panel_4_scratch2/800/600",
+                    "https://picsum.photos/seed/panel_4_scratch3/800/600",
+                    "https://picsum.photos/seed/panel_4_scratch4/800/600"
+                ]
+            },
+            {
+                "type": "Damage",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/panel_4_damage1/800/600",
+                    "https://picsum.photos/seed/panel_4_damage2/800/600"
+                ]
+            },
+            {
+                "type": "Line Mark",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/panel_4_line1/800/600",
+                    "https://picsum.photos/seed/panel_4_line2/800/600"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "variant": "PANEL FENDER LH -Z101",
+        "date": "29/12/2025",
+        "timestamp": "14:22:55",
+        "defectCount": 5,
+        "defectTypes": [
+            {
+                "type": "Thinning",
+                "count": 2,
+                "images": [
+                    "https://picsum.photos/seed/panel_5_thin1/800/600",
+                    "https://picsum.photos/seed/panel_5_thin2/800/600"
+                ]
+            },
+            {
+                "type": "Scrap Mark",
+                "count": 3,
+                "images": [
+                    "https://picsum.photos/seed/panel_5_scrap1/800/600",
+                    "https://picsum.photos/seed/panel_5_scrap2/800/600",
+                    "https://picsum.photos/seed/panel_5_scrap3/800/600"
+                ]
+            }
+        ]
+    }
+]
