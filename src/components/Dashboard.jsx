@@ -59,7 +59,7 @@ export default function Dashboard({ scanData }) {
                     </div>
                 </div>
 
-                <div
+                {/* <div
                     className="defect-summary-card"
                     style={{
                         backgroundColor: colors.cardBg,
@@ -99,7 +99,7 @@ export default function Dashboard({ scanData }) {
                             );
                         })}
                     </div>
-                </div>
+                </div> */}
 
                 <div
                     className="grid-card"
@@ -138,7 +138,7 @@ export default function Dashboard({ scanData }) {
                                                 className={`grid-cell ${defect ? 'has-defect' : ''}`}
                                                 style={{
                                                     backgroundColor: defect
-                                                        ? getDefectColor(defect.type)
+                                                        ? defect.color
                                                         : 'transparent',
                                                     borderColor: theme === 'dark'
                                                         ? 'rgba(255, 255, 255, 0.2)'
