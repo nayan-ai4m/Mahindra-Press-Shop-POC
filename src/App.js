@@ -16,6 +16,15 @@ const defaultScanData = {
   gridDefects: [],
 };
 
+// Variant to panel image mapping
+const variantPanelImages = {
+  'Z101 BSO LH': '/images/Z101/BSO_LH.png',
+  'M110 Fixed Glass Roof Front': '/images/Z101/BSO_LH.png',  // Using default for now
+  'THAR FDO RH- W502': '/images/Z101/BSO_LH.png',  // Using default for now
+  'M310 E9 LGO Lower': '/images/Z101/BSO_LH.png',  // Using default for now
+  'PANEL FENDER LH -Z101': '/images/Z101/BSO_LH.png',  // Using default for now
+};
+
 function App() {
   const [currentView, setCurrentView] = useState('dashboard');
   const [galleryOpen, setGalleryOpen] = useState(false);
@@ -92,11 +101,21 @@ function App() {
         return;
       }
       if (defect.images) {
-        defect.images.forEach(imageUrl => {
-          images.push({
-            url: imageUrl,
-            defectType: defect.type
-          });
+        defect.images.forEach((image, index) => {
+          // Support both old format (string URL) and new format (object with url and gridPosition)
+          if (typeof image === 'string') {
+            images.push({
+              url: image,
+              defectType: defect.type,
+              gridPosition: defect.gridPositions ? defect.gridPositions[index] : null
+            });
+          } else {
+            images.push({
+              url: image.url,
+              defectType: defect.type,
+              gridPosition: image.gridPosition || null
+            });
+          }
         });
       }
     });
@@ -130,6 +149,7 @@ function App() {
           onClose={handleCloseGallery}
           images={getGalleryImages()}
           title={getGalleryTitle()}
+          panelImage={selectedRecord ? variantPanelImages[selectedRecord.variant] : null}
         />
       </div>
     </ThemeProvider>

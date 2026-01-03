@@ -156,7 +156,7 @@ export default function History({ records, onViewImages, onViewDefectImages }) {
                                     <th className="table-header">DATE</th>
                                     <th className="table-header">TIMESTAMP</th>
                                     <th className="table-header">DEFECT COUNT</th>
-                                    <th className="table-header">DEFECT TYPE</th>
+                                    {/* <th className="table-header">DEFECT TYPE</th> */}
                                     <th className="table-header table-header-center">IMAGE</th>
                                 </tr>
                             </thead>
@@ -193,7 +193,7 @@ export default function History({ records, onViewImages, onViewDefectImages }) {
                                         <td className="table-cell table-cell-bold" style={{ color: colors.text }}>
                                             {record.defectCount}
                                         </td>
-                                        <td className="table-cell">
+                                        {/* <td className="table-cell">
                                             <div className="defect-badges">
                                                 {record.defectTypes.map((defect, idx) => (
                                                     <span
@@ -212,7 +212,7 @@ export default function History({ records, onViewImages, onViewDefectImages }) {
                                                     </span>
                                                 ))}
                                             </div>
-                                        </td>
+                                        </td> */}
                                         <td className="table-cell table-cell-center">
                                             <button
                                                 onClick={() => onViewImages(record)}

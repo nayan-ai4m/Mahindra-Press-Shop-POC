@@ -14,6 +14,24 @@
                     "https://picsum.photos/seed/z101_1_ding2/800/600",
                     "https://picsum.photos/seed/z101_1_ding3/800/600",
                     "https://picsum.photos/seed/z101_1_ding4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 15
+                    },
+                    {
+                        "row": 2,
+                        "col": 3
+                    },
+                    {
+                        "row": 4,
+                        "col": 10
+                    },
+                    {
+                        "row": 6,
+                        "col": 7
+                    }
                 ]
             },
             {
@@ -24,6 +42,24 @@
                     "https://picsum.photos/seed/z101_1_crack2/800/600",
                     "https://picsum.photos/seed/z101_1_crack3/800/600",
                     "https://picsum.photos/seed/z101_1_crack4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 5
+                    },
+                    {
+                        "row": 2,
+                        "col": 16
+                    },
+                    {
+                        "row": 3,
+                        "col": 4
+                    },
+                    {
+                        "row": 5,
+                        "col": 12
+                    }
                 ]
             }
         ]
@@ -42,6 +78,20 @@
                     "https://picsum.photos/seed/z101_2_chip1/800/600",
                     "https://picsum.photos/seed/z101_2_chip2/800/600",
                     "https://picsum.photos/seed/z101_2_chip3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 3,
+                        "col": 4
+                    },
+                    {
+                        "row": 5,
+                        "col": 8
+                    },
+                    {
+                        "row": 7,
+                        "col": 14
+                    }
                 ]
             },
             {
@@ -51,6 +101,20 @@
                     "https://picsum.photos/seed/z101_2_dent1/800/600",
                     "https://picsum.photos/seed/z101_2_dent2/800/600",
                     "https://picsum.photos/seed/z101_2_dent3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 8
+                    },
+                    {
+                        "row": 4,
+                        "col": 2
+                    },
+                    {
+                        "row": 6,
+                        "col": 11
+                    }
                 ]
             }
         ]
@@ -69,6 +133,20 @@
                     "https://picsum.photos/seed/z101_3_scratch1/800/600",
                     "https://picsum.photos/seed/z101_3_scratch2/800/600",
                     "https://picsum.photos/seed/z101_3_scratch3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 2
+                    },
+                    {
+                        "row": 4,
+                        "col": 6
+                    },
+                    {
+                        "row": 7,
+                        "col": 15
+                    }
                 ]
             },
             {
@@ -77,6 +155,16 @@
                 "images": [
                     "https://picsum.photos/seed/z101_3_line1/800/600",
                     "https://picsum.photos/seed/z101_3_line2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 5,
+                        "col": 8
+                    },
+                    {
+                        "row": 3,
+                        "col": 12
+                    }
                 ]
             }
         ]
@@ -97,6 +185,28 @@
                     "https://picsum.photos/seed/z101_4_damage3/800/600",
                     "https://picsum.photos/seed/z101_4_damage4/800/600",
                     "https://picsum.photos/seed/z101_4_damage5/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 16
+                    },
+                    {
+                        "row": 1,
+                        "col": 5
+                    },
+                    {
+                        "row": 4,
+                        "col": 9
+                    },
+                    {
+                        "row": 6,
+                        "col": 3
+                    },
+                    {
+                        "row": 8,
+                        "col": 14
+                    }
                 ]
             },
             {
@@ -107,6 +217,24 @@
                     "https://picsum.photos/seed/z101_4_thin2/800/600",
                     "https://picsum.photos/seed/z101_4_thin3/800/600",
                     "https://picsum.photos/seed/z101_4_thin4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 5,
+                        "col": 12
+                    },
+                    {
+                        "row": 3,
+                        "col": 7
+                    },
+                    {
+                        "row": 7,
+                        "col": 1
+                    },
+                    {
+                        "row": 2,
+                        "col": 10
+                    }
                 ]
             }
         ]
@@ -133,6 +261,20 @@
                     "https://picsum.photos/seed/m110_1_ding1/800/600",
                     "https://picsum.photos/seed/m110_1_ding2/800/600",
                     "https://picsum.photos/seed/m110_1_ding3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 5
+                    },
+                    {
+                        "row": 4,
+                        "col": 11
+                    },
+                    {
+                        "row": 6,
+                        "col": 8
+                    }
                 ]
             },
             {
@@ -143,6 +285,24 @@
                     "https://picsum.photos/seed/m110_1_chip2/800/600",
                     "https://picsum.photos/seed/m110_1_chip3/800/600",
                     "https://picsum.photos/seed/m110_1_chip4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 3
+                    },
+                    {
+                        "row": 3,
+                        "col": 14
+                    },
+                    {
+                        "row": 5,
+                        "col": 9
+                    },
+                    {
+                        "row": 7,
+                        "col": 16
+                    }
                 ]
             }
         ]
@@ -162,6 +322,24 @@
                     "https://picsum.photos/seed/m110_2_crack2/800/600",
                     "https://picsum.photos/seed/m110_2_crack3/800/600",
                     "https://picsum.photos/seed/m110_2_crack4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 6
+                    },
+                    {
+                        "row": 2,
+                        "col": 12
+                    },
+                    {
+                        "row": 4,
+                        "col": 4
+                    },
+                    {
+                        "row": 6,
+                        "col": 15
+                    }
                 ]
             },
             {
@@ -171,6 +349,20 @@
                     "https://picsum.photos/seed/m110_2_dent1/800/600",
                     "https://picsum.photos/seed/m110_2_dent2/800/600",
                     "https://picsum.photos/seed/m110_2_dent3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 9
+                    },
+                    {
+                        "row": 3,
+                        "col": 2
+                    },
+                    {
+                        "row": 5,
+                        "col": 17
+                    }
                 ]
             },
             {
@@ -180,6 +372,20 @@
                     "https://picsum.photos/seed/m110_2_scratch1/800/600",
                     "https://picsum.photos/seed/m110_2_scratch2/800/600",
                     "https://picsum.photos/seed/m110_2_scratch3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 7,
+                        "col": 7
+                    },
+                    {
+                        "row": 4,
+                        "col": 13
+                    },
+                    {
+                        "row": 2,
+                        "col": 1
+                    }
                 ]
             }
         ]
@@ -197,6 +403,16 @@
                 "images": [
                     "https://picsum.photos/seed/m110_3_thin1/800/600",
                     "https://picsum.photos/seed/m110_3_thin2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 3,
+                        "col": 10
+                    },
+                    {
+                        "row": 6,
+                        "col": 5
+                    }
                 ]
             },
             {
@@ -205,6 +421,16 @@
                 "images": [
                     "https://picsum.photos/seed/m110_3_damage1/800/600",
                     "https://picsum.photos/seed/m110_3_damage2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 14
+                    },
+                    {
+                        "row": 5,
+                        "col": 3
+                    }
                 ]
             }
         ]
@@ -223,6 +449,20 @@
                     "https://picsum.photos/seed/m110_4_line1/800/600",
                     "https://picsum.photos/seed/m110_4_line2/800/600",
                     "https://picsum.photos/seed/m110_4_line3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 8
+                    },
+                    {
+                        "row": 4,
+                        "col": 15
+                    },
+                    {
+                        "row": 7,
+                        "col": 2
+                    }
                 ]
             },
             {
@@ -232,6 +472,20 @@
                     "https://picsum.photos/seed/m110_4_scrap1/800/600",
                     "https://picsum.photos/seed/m110_4_scrap2/800/600",
                     "https://picsum.photos/seed/m110_4_scrap3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 4,
+                        "col": 17
+                    },
+                    {
+                        "row": 1,
+                        "col": 6
+                    },
+                    {
+                        "row": 6,
+                        "col": 11
+                    }
                 ]
             }
         ]
@@ -250,6 +504,20 @@
                     "https://picsum.photos/seed/m110_5_ding1/800/600",
                     "https://picsum.photos/seed/m110_5_ding2/800/600",
                     "https://picsum.photos/seed/m110_5_ding3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 3,
+                        "col": 4
+                    },
+                    {
+                        "row": 5,
+                        "col": 12
+                    },
+                    {
+                        "row": 8,
+                        "col": 9
+                    }
                 ]
             }
         ]
@@ -269,6 +537,24 @@
                     "https://picsum.photos/seed/thar_1_ding2/800/600",
                     "https://picsum.photos/seed/thar_1_ding3/800/600",
                     "https://picsum.photos/seed/thar_1_ding4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 7
+                    },
+                    {
+                        "row": 3,
+                        "col": 13
+                    },
+                    {
+                        "row": 5,
+                        "col": 2
+                    },
+                    {
+                        "row": 7,
+                        "col": 16
+                    }
                 ]
             },
             {
@@ -279,6 +565,24 @@
                     "https://picsum.photos/seed/thar_1_dent2/800/600",
                     "https://picsum.photos/seed/thar_1_dent3/800/600",
                     "https://picsum.photos/seed/thar_1_dent4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 10
+                    },
+                    {
+                        "row": 2,
+                        "col": 5
+                    },
+                    {
+                        "row": 4,
+                        "col": 14
+                    },
+                    {
+                        "row": 6,
+                        "col": 8
+                    }
                 ]
             },
             {
@@ -288,6 +592,20 @@
                     "https://picsum.photos/seed/thar_1_damage1/800/600",
                     "https://picsum.photos/seed/thar_1_damage2/800/600",
                     "https://picsum.photos/seed/thar_1_damage3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 1
+                    },
+                    {
+                        "row": 4,
+                        "col": 9
+                    },
+                    {
+                        "row": 8,
+                        "col": 15
+                    }
                 ]
             }
         ]
@@ -305,6 +623,16 @@
                 "images": [
                     "https://picsum.photos/seed/thar_2_crack1/800/600",
                     "https://picsum.photos/seed/thar_2_crack2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 4
+                    },
+                    {
+                        "row": 5,
+                        "col": 11
+                    }
                 ]
             },
             {
@@ -314,6 +642,20 @@
                     "https://picsum.photos/seed/thar_2_chip1/800/600",
                     "https://picsum.photos/seed/thar_2_chip2/800/600",
                     "https://picsum.photos/seed/thar_2_chip3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 3,
+                        "col": 6
+                    },
+                    {
+                        "row": 6,
+                        "col": 13
+                    },
+                    {
+                        "row": 7,
+                        "col": 2
+                    }
                 ]
             }
         ]
@@ -333,6 +675,24 @@
                     "https://picsum.photos/seed/thar_3_scratch2/800/600",
                     "https://picsum.photos/seed/thar_3_scratch3/800/600",
                     "https://picsum.photos/seed/thar_3_scratch4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 3
+                    },
+                    {
+                        "row": 4,
+                        "col": 8
+                    },
+                    {
+                        "row": 5,
+                        "col": 15
+                    },
+                    {
+                        "row": 7,
+                        "col": 10
+                    }
                 ]
             },
             {
@@ -343,6 +703,24 @@
                     "https://picsum.photos/seed/thar_3_line2/800/600",
                     "https://picsum.photos/seed/thar_3_line3/800/600",
                     "https://picsum.photos/seed/thar_3_line4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 12
+                    },
+                    {
+                        "row": 3,
+                        "col": 5
+                    },
+                    {
+                        "row": 6,
+                        "col": 16
+                    },
+                    {
+                        "row": 8,
+                        "col": 1
+                    }
                 ]
             }
         ]
@@ -369,6 +747,20 @@
                     "https://picsum.photos/seed/thar_5_thin1/800/600",
                     "https://picsum.photos/seed/thar_5_thin2/800/600",
                     "https://picsum.photos/seed/thar_5_thin3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 9
+                    },
+                    {
+                        "row": 4,
+                        "col": 3
+                    },
+                    {
+                        "row": 6,
+                        "col": 14
+                    }
                 ]
             },
             {
@@ -379,6 +771,24 @@
                     "https://picsum.photos/seed/thar_5_scrap2/800/600",
                     "https://picsum.photos/seed/thar_5_scrap3/800/600",
                     "https://picsum.photos/seed/thar_5_scrap4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 17
+                    },
+                    {
+                        "row": 3,
+                        "col": 7
+                    },
+                    {
+                        "row": 5,
+                        "col": 11
+                    },
+                    {
+                        "row": 8,
+                        "col": 4
+                    }
                 ]
             }
         ]
@@ -400,6 +810,32 @@
                     "https://picsum.photos/seed/m310_1_ding4/800/600",
                     "https://picsum.photos/seed/m310_1_ding5/800/600",
                     "https://picsum.photos/seed/m310_1_ding6/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 8
+                    },
+                    {
+                        "row": 2,
+                        "col": 4
+                    },
+                    {
+                        "row": 3,
+                        "col": 15
+                    },
+                    {
+                        "row": 5,
+                        "col": 1
+                    },
+                    {
+                        "row": 6,
+                        "col": 12
+                    },
+                    {
+                        "row": 8,
+                        "col": 6
+                    }
                 ]
             },
             {
@@ -410,6 +846,24 @@
                     "https://picsum.photos/seed/m310_1_crack2/800/600",
                     "https://picsum.photos/seed/m310_1_crack3/800/600",
                     "https://picsum.photos/seed/m310_1_crack4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 10
+                    },
+                    {
+                        "row": 4,
+                        "col": 2
+                    },
+                    {
+                        "row": 5,
+                        "col": 16
+                    },
+                    {
+                        "row": 7,
+                        "col": 9
+                    }
                 ]
             }
         ]
@@ -427,6 +881,16 @@
                 "images": [
                     "https://picsum.photos/seed/m310_2_damage1/800/600",
                     "https://picsum.photos/seed/m310_2_damage2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 13
+                    },
+                    {
+                        "row": 6,
+                        "col": 5
+                    }
                 ]
             },
             {
@@ -435,6 +899,16 @@
                 "images": [
                     "https://picsum.photos/seed/m310_2_dent1/800/600",
                     "https://picsum.photos/seed/m310_2_dent2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 4,
+                        "col": 7
+                    },
+                    {
+                        "row": 7,
+                        "col": 14
+                    }
                 ]
             }
         ]
@@ -454,6 +928,24 @@
                     "https://picsum.photos/seed/m310_3_scratch2/800/600",
                     "https://picsum.photos/seed/m310_3_scratch3/800/600",
                     "https://picsum.photos/seed/m310_3_scratch4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 3
+                    },
+                    {
+                        "row": 3,
+                        "col": 11
+                    },
+                    {
+                        "row": 5,
+                        "col": 6
+                    },
+                    {
+                        "row": 8,
+                        "col": 15
+                    }
                 ]
             },
             {
@@ -463,6 +955,20 @@
                     "https://picsum.photos/seed/m310_3_damage1/800/600",
                     "https://picsum.photos/seed/m310_3_damage2/800/600",
                     "https://picsum.photos/seed/m310_3_damage3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 9
+                    },
+                    {
+                        "row": 4,
+                        "col": 16
+                    },
+                    {
+                        "row": 7,
+                        "col": 2
+                    }
                 ]
             }
         ]
@@ -481,6 +987,20 @@
                     "https://picsum.photos/seed/m310_4_chip1/800/600",
                     "https://picsum.photos/seed/m310_4_chip2/800/600",
                     "https://picsum.photos/seed/m310_4_chip3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 8
+                    },
+                    {
+                        "row": 5,
+                        "col": 13
+                    },
+                    {
+                        "row": 6,
+                        "col": 4
+                    }
                 ]
             },
             {
@@ -489,6 +1009,16 @@
                 "images": [
                     "https://picsum.photos/seed/m310_4_line1/800/600",
                     "https://picsum.photos/seed/m310_4_line2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 3,
+                        "col": 17
+                    },
+                    {
+                        "row": 7,
+                        "col": 1
+                    }
                 ]
             }
         ]
@@ -507,6 +1037,20 @@
                     "https://picsum.photos/seed/m310_5_thin1/800/600",
                     "https://picsum.photos/seed/m310_5_thin2/800/600",
                     "https://picsum.photos/seed/m310_5_thin3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 12
+                    },
+                    {
+                        "row": 4,
+                        "col": 5
+                    },
+                    {
+                        "row": 8,
+                        "col": 10
+                    }
                 ]
             },
             {
@@ -516,6 +1060,20 @@
                     "https://picsum.photos/seed/m310_5_scrap1/800/600",
                     "https://picsum.photos/seed/m310_5_scrap2/800/600",
                     "https://picsum.photos/seed/m310_5_scrap3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 7
+                    },
+                    {
+                        "row": 3,
+                        "col": 14
+                    },
+                    {
+                        "row": 6,
+                        "col": 3
+                    }
                 ]
             }
         ]
@@ -536,6 +1094,28 @@
                     "https://picsum.photos/seed/panel_1_ding3/800/600",
                     "https://picsum.photos/seed/panel_1_ding4/800/600",
                     "https://picsum.photos/seed/panel_1_ding5/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 6
+                    },
+                    {
+                        "row": 2,
+                        "col": 11
+                    },
+                    {
+                        "row": 4,
+                        "col": 3
+                    },
+                    {
+                        "row": 6,
+                        "col": 15
+                    },
+                    {
+                        "row": 8,
+                        "col": 8
+                    }
                 ]
             },
             {
@@ -546,6 +1126,24 @@
                     "https://picsum.photos/seed/panel_1_chip2/800/600",
                     "https://picsum.photos/seed/panel_1_chip3/800/600",
                     "https://picsum.photos/seed/panel_1_chip4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 14
+                    },
+                    {
+                        "row": 3,
+                        "col": 2
+                    },
+                    {
+                        "row": 5,
+                        "col": 9
+                    },
+                    {
+                        "row": 7,
+                        "col": 17
+                    }
                 ]
             }
         ]
@@ -572,6 +1170,20 @@
                     "https://picsum.photos/seed/panel_3_crack1/800/600",
                     "https://picsum.photos/seed/panel_3_crack2/800/600",
                     "https://picsum.photos/seed/panel_3_crack3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 7
+                    },
+                    {
+                        "row": 4,
+                        "col": 13
+                    },
+                    {
+                        "row": 7,
+                        "col": 4
+                    }
                 ]
             },
             {
@@ -581,6 +1193,20 @@
                     "https://picsum.photos/seed/panel_3_dent1/800/600",
                     "https://picsum.photos/seed/panel_3_dent2/800/600",
                     "https://picsum.photos/seed/panel_3_dent3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 10
+                    },
+                    {
+                        "row": 5,
+                        "col": 16
+                    },
+                    {
+                        "row": 6,
+                        "col": 1
+                    }
                 ]
             }
         ]
@@ -600,6 +1226,24 @@
                     "https://picsum.photos/seed/panel_4_scratch2/800/600",
                     "https://picsum.photos/seed/panel_4_scratch3/800/600",
                     "https://picsum.photos/seed/panel_4_scratch4/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 0,
+                        "col": 5
+                    },
+                    {
+                        "row": 3,
+                        "col": 12
+                    },
+                    {
+                        "row": 5,
+                        "col": 8
+                    },
+                    {
+                        "row": 8,
+                        "col": 14
+                    }
                 ]
             },
             {
@@ -608,6 +1252,16 @@
                 "images": [
                     "https://picsum.photos/seed/panel_4_damage1/800/600",
                     "https://picsum.photos/seed/panel_4_damage2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 2,
+                        "col": 2
+                    },
+                    {
+                        "row": 6,
+                        "col": 17
+                    }
                 ]
             },
             {
@@ -616,6 +1270,16 @@
                 "images": [
                     "https://picsum.photos/seed/panel_4_line1/800/600",
                     "https://picsum.photos/seed/panel_4_line2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 4,
+                        "col": 9
+                    },
+                    {
+                        "row": 7,
+                        "col": 6
+                    }
                 ]
             }
         ]
@@ -633,6 +1297,16 @@
                 "images": [
                     "https://picsum.photos/seed/panel_5_thin1/800/600",
                     "https://picsum.photos/seed/panel_5_thin2/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 3,
+                        "col": 11
+                    },
+                    {
+                        "row": 5,
+                        "col": 3
+                    }
                 ]
             },
             {
@@ -642,6 +1316,20 @@
                     "https://picsum.photos/seed/panel_5_scrap1/800/600",
                     "https://picsum.photos/seed/panel_5_scrap2/800/600",
                     "https://picsum.photos/seed/panel_5_scrap3/800/600"
+                ],
+                "gridPositions": [
+                    {
+                        "row": 1,
+                        "col": 15
+                    },
+                    {
+                        "row": 4,
+                        "col": 7
+                    },
+                    {
+                        "row": 8,
+                        "col": 13
+                    }
                 ]
             }
         ]

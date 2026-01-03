@@ -15,6 +15,11 @@
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
+.gallery-modal-split {
+    width: 90vw;
+    max-width: 1400px;
+}
+
 .gallery-header {
     padding: 16px 24px;
     display: flex;
@@ -50,7 +55,123 @@
     padding: 40px;
 }
 
+.gallery-content-split {
+    display: flex;
+    gap: 24px;
+    padding: 24px;
+    min-height: 500px;
+}
+
+/* Left Section - Panel Image with Grid */
+.gallery-panel-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.gallery-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+.section-label {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.grid-position-badge {
+    padding: 4px 12px;
+    border-radius: 9999px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.gallery-panel-wrapper {
+    flex: 1;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    padding: 16px;
+    min-height: 400px;
+}
+
+.panel-with-grid {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery-panel-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.panel-grid-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: 90%;
+    display: grid;
+    gap: 0;
+    pointer-events: none;
+}
+
+.panel-grid-cell {
+    border: 1px solid;
+    transition: all 0.3s ease;
+}
+
+.panel-grid-cell.highlighted {
+    animation: pulse-highlight 1.5s ease-in-out infinite;
+    box-shadow: 0 0 20px rgba(239, 68, 68, 0.8);
+    z-index: 10;
+}
+
+@keyframes pulse-highlight {
+
+    0%,
+    100% {
+        opacity: 0.9;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scale(1.05);
+    }
+}
+
+/* Divider */
+.gallery-divider {
+    width: 2px;
+    align-self: stretch;
+    border-radius: 1px;
+}
+
+/* Right Section - Defect Images */
+.gallery-defect-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
 .gallery-viewer {
+    flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -73,23 +194,26 @@
 
 .gallery-nav-btn:hover {
     opacity: 0.8;
+    transform: translateY(-50%) scale(1.1);
 }
 
 .gallery-nav-left {
-    left: 16px;
+    left: 8px;
 }
 
 .gallery-nav-right {
-    right: 16px;
+    right: 8px;
 }
 
 .gallery-image-container {
     text-align: center;
+    width: 100%;
+    padding: 0 60px;
 }
 
 .gallery-image-wrapper {
-    width: 800px;
-    height: 500px;
+    width: 100%;
+    height: 380px;
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -121,4 +245,24 @@
     border-radius: 9999px;
     font-size: 12px;
     font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+    .gallery-content-split {
+        flex-direction: column;
+    }
+
+    .gallery-divider {
+        width: 100%;
+        height: 2px;
+    }
+
+    .gallery-panel-wrapper {
+        min-height: 250px;
+    }
+
+    .gallery-image-wrapper {
+        height: 280px;
+    }
 }
